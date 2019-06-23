@@ -1,0 +1,10 @@
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\StoeA.Models.dll.config
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\StoeA.Models.dll
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\StoeA.Models.pdb
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\EntityFramework.dll
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\EntityFramework.xml
+D:\MohandesiInternetP\StoreA\StoeA.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\MohandesiInternetP\StoreA\StoeA.Models\obj\Debug\StoeA.Models.csprojResolveAssemblyReference.cache
+D:\MohandesiInternetP\StoreA\StoeA.Models\obj\Debug\StoeA.Models.dll
+D:\MohandesiInternetP\StoreA\StoeA.Models\obj\Debug\StoeA.Models.pdb
